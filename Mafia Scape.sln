@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{9B4D4887-AF8A-6506-02E4-D6DD7E5BF44F}") = "Mafia Scape", "Assembly-CSharp-firstpass.csproj", "{9A893244-4923-0398-AF9D-CF4079E3061A}"
+EndProject
+Project("{9B4D4887-AF8A-6506-02E4-D6DD7E5BF44F}") = "Mafia Scape", "Assembly-CSharp.csproj", "{4BD5A822-76B1-DA60-7BDB-02132F51A824}"
+EndProject
+Project("{9B4D4887-AF8A-6506-02E4-D6DD7E5BF44F}") = "Mafia Scape", "Assembly-CSharp-Editor.csproj", "{AE36FAB8-96DD-593F-3486-1F019C577B42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A893244-4923-0398-AF9D-CF4079E3061A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A893244-4923-0398-AF9D-CF4079E3061A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A893244-4923-0398-AF9D-CF4079E3061A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A893244-4923-0398-AF9D-CF4079E3061A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BD5A822-76B1-DA60-7BDB-02132F51A824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BD5A822-76B1-DA60-7BDB-02132F51A824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BD5A822-76B1-DA60-7BDB-02132F51A824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BD5A822-76B1-DA60-7BDB-02132F51A824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE36FAB8-96DD-593F-3486-1F019C577B42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE36FAB8-96DD-593F-3486-1F019C577B42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE36FAB8-96DD-593F-3486-1F019C577B42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE36FAB8-96DD-593F-3486-1F019C577B42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
